@@ -1,0 +1,94 @@
+* {
+	padding: 0;
+	margin:  0;
+}
+body {
+	background-color: #4ACBD6;
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 30px;
+	background-color: bisque;
+	
+}
+.header-text {
+	padding: 35px;
+	float: left;
+	font-weight: bold;
+
+
+}
+.header-contact {
+	float: right;
+	padding: 30px;
+	margin: 0 auto;
+	
+}
+.header-contact a {
+	text-decoration: none;
+	color: #2e771a;
+	font-weight: bold;
+}
+.header-contact a:hover {
+	color: tomato;
+	text-decoration: underline;
+}
+.div-clear {
+	clear: both;
+}
+hr {
+	border: 4px solid black;
+	margin: 20px auto;
+	border-bottom: none;
+	width: 100%;
+}
+.left-text {
+		float: left;
+		width: 30%;
+
+}
+.right-text {
+	float: left;
+	width: 70%;
+	color: #2e771a;
+	font-weight: bold;
+}
+.right-text:hover {
+	background-color: #fff;
+}
+.common-hr {
+	margin: 20px auto;
+	border: 2px solid black;
+	border-bottom: none;
+}
+.right-edu {
+	float: left;
+	width: 45%;
+	color: #2e771a;
+	font-weight: bold;
+
+}
+
+.right-edu:hover {
+	background-color: #fff;
+}
+
+.right-work {
+	float: left;
+	width: 70%;
+	color: #2e771a;
+	font-weight: bold;
+
+}
+.right-work:hover {
+	background-color: #fff;
+}
+.footer {
+	text-align: center;
+	background-color: #374550;
+}
+.footer p {
+	color: #fff;
+}
